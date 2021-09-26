@@ -31,3 +31,12 @@ int main(void) {
     cout << endl;
     return 0;
 }
+     
+
+// out put: Automated Input:
+//We have done the testing of your code with our test case as follows:
+//Input:
+//N = 5
+//Array = 4 7 2 8 5
+//Output:
+//158
