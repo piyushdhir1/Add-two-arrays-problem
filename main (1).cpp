@@ -26,7 +26,7 @@ int main(void) {
 
     // Print the sumArray
     for (i=0; i<N; i++) {
-        cout << sumArray[i] << " ";
+        cout << sumArray[i] << "THE SUM OF 2 ARRAYS IS ";
     }
     cout << endl;
     return 0;
